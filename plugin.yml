@@ -1,0 +1,10 @@
+name: TTVote
+main: com.NoodleNetworks.TTVote.Main
+version: 1.2
+commands:
+  vote:
+    description: Command used to display the vote webpage.
+  banned:
+    description: Command used to display the banned items webpage.
+  donate:
+    description: Command used to display the donator webpage.
