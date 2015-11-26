@@ -16,7 +16,6 @@ public class Main extends JavaPlugin
 			player.sendMessage(ChatColor.RED + "                 To Vote Please, Click The Link Below");
 			player.sendMessage(ChatColor.BLUE + "");
 			player.sendMessage(ChatColor.BLUE + "                 http://tekkit.mvpservers.net/votemodal/1/");
-			player.sendMessage(ChatColor.BLUE + "                 http://tinyurl.com/Totallyvote");
 		    player.sendMessage(ChatColor.BLUE + "                 http://tinyurl.com/p4delnz");
 		    player.sendMessage(ChatColor.YELLOW + "=====================================================");
 		    return false;
